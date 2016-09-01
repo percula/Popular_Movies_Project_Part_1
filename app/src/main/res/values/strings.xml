@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <!--Main Activity Strings-->
+    <string name="sort_order">Sort Order</string>
+    <string name="sort_popular">Most Popular</string>
+    <string name="sort_rated">Highest Rated</string>
+    <string name="network_error">Unable to download movie data. Please check your internet connection.</string>
+    <string name="loading">Loading Movies &#8230; </string>
+
+    <!--Detail Activity Strings-->
+    <string name="release">Released: %s</string>
+    <string name="vote">Rating: %s/10</string>
+    <string name="plot">Plot: %s</string>
+    <string name="title_activity_detail_scrolling">Movie Title</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
